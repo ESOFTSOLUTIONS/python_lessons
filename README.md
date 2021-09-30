@@ -3,4 +3,4 @@
 # E-Soft Solutions & Python Programming 
 
 Lessons to use python
-  - **Lesson 1**: Dictionary 
+  - **Lesson 1**: Strings and Dictionaries
