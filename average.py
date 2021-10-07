@@ -21,5 +21,5 @@ for line in fh:
             count=count+1
         #find the average as an integer number
         avrg=int(sum1/count)
-#print the average
+#print the average of the numbers
 print(avrg)
